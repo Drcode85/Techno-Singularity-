@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Holodeck",
+		"name": "Fabricator",
 		"replaces": "Circus Maximus",
 		"uniqueTo": "Aliens",
 		"cost": 480,
@@ -13,13 +13,19 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"name": "Complex",
+		"replaces": "Factory",
+		"uniqueTo": "Artificial",
+		"cost": 400,
+		"production": 5,
+		"science": 2,
+		"percentStatBonus": {"production": 10},
+		"specialistSlots": {"Engineer": 2},
+		"requiredBuilding": "Workshop",
+		"maintenance": 3,
+		"hurryCostModifier": 0,
+		"uniques": ["Free [Worker] appears", "[+2] Unit Supply"],
+		"requiredResource": "Coal",
+		"requiredTech": "Industrialization"
 	}
 ]
