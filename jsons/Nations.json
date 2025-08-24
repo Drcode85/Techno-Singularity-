@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Singularity",
-		"uniques": ["[-33]% Science cost of researching new Technologies", "Production to [Science] conversion in cities changed by [+25]%", "[Human player] units gain the [Artificial] promotion"],
+		"uniques": ["Reveal up to [All] [Strategic resource] within a [99] tile radius", "[-33]% Science cost of researching new Technologies", "[Human player] units gain the [Artificial] promotion"],
 		"cities": ["Central Hub","Sector 1","Sector 2","Sector 3","Sector 4","Sector 5","Sector 6","Sector 7","Sector 8",
 			"Sector 9","Sector 10","Sector 11","Sector 12","Sector 13","Sector 14","Sector 15","Sector 16","Sector 17","Sector 18",
 			"Sector 19","Sector 20","Sector 21","Sector 22","Sector 23","Sector 24","Sector 25","Sector 26","Sector 27","Sector 28",
