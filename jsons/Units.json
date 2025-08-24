@@ -1,17 +1,14 @@
 [
 	{
-		"name": "Phasers",
-		"unitType": "Ranged",
-		"uniqueTo": "Aliens",
-		"replaces": "Machine Gun",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
-		"promotions": ["Logistics","Accuracy I"],
+		"name": "Exterminator",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Artificial",
+		"replaces": "Mechanized Infantry",
+		"movement": 3,
+		"strength": 100,
+		"cost": 400,
+		"requiredTech": "Mobile Tactic",
+		"promotions": ["Ambush","Precision"],
 		"attackSound": "phasers"
 	}
 ]
