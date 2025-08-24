@@ -2,6 +2,7 @@
 	{
 		"name": "Fabricator",
 		"replaces": "Ironworks",
+		"uniqueTo": "Artificial",
 		"cost": 125,
 		"production": 10,
 		"science": 2,
