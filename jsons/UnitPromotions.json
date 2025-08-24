@@ -1,6 +1,6 @@
 [
   {
-    "name": "Glory Before Death",
-    "uniques": ["[25]% Strength <when below [50] HP>"]
+    "name": "Artificial",
+    "uniques": ["[25]% Strength", "Uncapturable", "Ignores Zone of Control"]
   }
 ]
