@@ -3,7 +3,6 @@
 		"name": "Artificial",
 		"leaderName": "Binary",
 		"adjective": ["ai"],
-		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come in peace!",
