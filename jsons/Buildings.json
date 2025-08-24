@@ -8,7 +8,7 @@
 		"science": 2,
 		"culture": 1,
 		"isNationalWonder": true,
-		"uniques": ["Production to [Science] conversion in cities changed by [+25]%", "Provides [3] [Iron]", "Provides [3] [Aluminum]", "Provides [3] [Uranium]", "Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
+		"uniques": ["Production to [Science] conversion in cities changed by [+25]%", "Provides [3] [Iron]", "Provides [3] [Aluminum] <after discovering [Electricity]>", "Provides [3] [Uranium] <after discovering [Atomic Theory]>", "Only available <if [Workshop] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [30] per owned city"],
 		"requiredTech": "Machinery"
 	},
 	{
