@@ -1,10 +1,10 @@
 [
   {
     "name": "Artificial",
-    "uniques": ["[20]% Strength", "Uncapturable", "Ignores Zone of Control"],
+    "uniques": ["[+10]% Strength", "[+10]% to Flank Attack bonuses <while researching [Radio]>"],
   },
   {
     "name": "Precision",
-    "uniques": ["[100]% Strength <with [5]% chance>"]
+    "uniques": ["[+100]% Strength <with [5]% chance>"]
   }
 ]
