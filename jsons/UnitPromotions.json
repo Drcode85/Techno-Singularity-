@@ -1,6 +1,10 @@
 [
   {
     "name": "Artificial",
-    "uniques": ["[20]% Strength", "Uncapturable", "Ignores Zone of Control"]
+    "uniques": ["[20]% Strength", "Uncapturable", "Ignores Zone of Control"],
+  },
+  {
+    "name": "Precision",
+    "uniques": ["[100]% Strength <with [5]% chance>"]
   }
 ]
